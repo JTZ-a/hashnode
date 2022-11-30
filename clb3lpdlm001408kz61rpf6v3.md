@@ -1,6 +1,6 @@
 # Traverxec
 
-![HTB 靶场 (1).png](https://cdn.nlark.com/yuque/0/2022/png/26497714/1669806552521-1ff8f3b7-1515-48eb-8a86-2342e59e2303.png?x-oss-process=image%2Fresize%2Cw_1172%2Climit_0 align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1669810003368/A9rJg3v7-.png align="left")
 
 1.  使用 Nmap 扫描
     
